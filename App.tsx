@@ -1,4 +1,4 @@
-import Navigation from "./navigation/Navigation";
+import Navigation from "./src/navigation/Navigation";
 import { StatusBar } from "expo-status-bar";
 import {
   useFonts,
