@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "title": "Beautiful Beach",
+      "description": "A stunning beach with clear waters and golden sands.",
+      "image": "https://example.com/beach.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Hawaiian Volcano",
+      "description": "Explore the majestic Hawaiian volcano.",
+      "image": "https://example.com/volcano.jpg"
+    }
+  ]
+  
